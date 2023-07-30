@@ -1,0 +1,63 @@
+{
+    "USERS": [
+        {
+            "USERNAME": "[object HTMLInputElement]/|\\lname/|\\[object HTMLInputElement]",
+            "PASSWORD": {
+                "jQuery111303956698255979336": 20
+            },
+            "COOKIES": [],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "sssssss/|\\sssssssss/|\\ssss@ssssssss",
+            "PASSWORD": "ssssssssss",
+            "COOKIES": [],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "ssssss/|\\ssssssss/|\\ssssssssssss2S@s",
+            "PASSWORD": "sssssssssssssss",
+            "COOKIES": [],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "ssssss/|\\ssssssss/|\\ssssssssssssssssssssssssssssssssssssssssssssss@Ssc.com",
+            "PASSWORD": "@ssssss",
+            "COOKIES": [],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "/|\\/|\\",
+            "PASSWORD": "",
+            "COOKIES": [],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "hi@hi.com",
+            "PASSWORD": "hello",
+            "COOKIES": [
+                "ljIAEv=crtITEzpcgyWvjDRiqwUBhufZVIvMfmNWwjGebRcdymvQuKFozXyd=fLALMlmJnzUsNeXTYmzrpQDfCHuqCWSdpYKFIjz",
+                "UuJeddEmDxYFsBihcSuHobcUQYWGAj=KAweWEXkVmOvdaMxvhTWDhBljHBByIIbr=ISkwBKKTFaUMkYqydqEhLlhAfnwUtKuFgrb",
+                "XbBNGAU=ETVbNUDKcOUKlASjiLR=UUzxBxGKmuyIYAgVTATfCBLDVADRBtJWPsbuFCTeuxdelXDxqznmpmZMKxqccEAztIirDdhN",
+                "tixgnPNaiTiiIdL=aafzWxnxjeIoYGzNNKhS=VqWpsVmRKomIYcbqmYxKFCJcHxiJi=XPzvuBONRTNrvAHAibThrvNpOXtcWlQKM"
+            ],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "hi@hi.coms",
+            "PASSWORD": "hello",
+            "COOKIES": [
+                "WqfGzbmhaYKbgtWyRObtVZNTgaOmYorKtAJeSwJWQ=xeYEQqorOYNPbnFNSBGOCPwnKnwmcaYPRQMgYSDucTRywBPKD=QZWpriCy"
+            ],
+            "DATA": {}
+        },
+        {
+            "USERNAME": "hi@s.com",
+            "PASSWORD": "hello",
+            "COOKIES": [
+                "dMYesqoYASCcTNOfTpWpeSJlsxWmSRNYjUxGFCSvyZUlGHCqxDRqvAanTC=oTmDisdOeduANSYgZtExjDJQHrUTZHeMHSZnhnJss"
+            ],
+            "DATA": {}
+        }
+    ]
+}
